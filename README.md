@@ -1,7 +1,7 @@
 
 
 
-<img src="./goopher.png" width="72" align="right" alt="Go gopher">
+<img src="./goopher_logo.png" width="72" align="right" alt="Go gopher logo">
 
 
 ### What I’ve spent time on lately
