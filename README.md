@@ -6,13 +6,13 @@
 
 - [pwa-party](https://github.com/Makepad-fr/pwa-party) : A lightweight event PWA that creates a **unique organizer ID** and lets guests **upload photos** under simple rules.
 
-- [file-transformer](https://github.com/Makepad-fr/transformer) : Fast file conversion (**JPG→PNG**, **MP4→MP3**, etc.) with a calm, no-nonsense UI.
+- [file-transformer](https://github.com/Makepad-fr/transformer) : Fast file conversion (**JPG→PNG**, **MP4→MP3**, etc.)
 
-- [cli-todo](https://github.com/Makepad-fr/cli-todo) : A minimal terminal **to-do** that’s quick to add, list, and check off—no configs, just works.
+- [cli-todo](https://github.com/Makepad-fr/cli-todo) : A minimal terminal **to-do** that’s quick to add, list, and check off.
 
 - [clothing-classifier](https://github.com/Makepad-fr/clothing-classifier) : Upload a photo and get **clothing type/occasion** with **confidence percentages** via an API.
 
-- [A11y Linter](https://github.com/idilsaglam/a11y-linter) : In-browser checker for **WCAG 2.1 AA** issues in pasted HTML forms; instant, actionable notes.
+- [A11y Linter](https://github.com/idilsaglam/a11y-linter) : In-browser checker for **WCAG 2.1 AA** issues in pasted HTML forms; instant and actionable notes.
 
 - [alerteconso.com](https://github.com/Makepad-fr/alerteconso.com) : A clear dashboard and API for France’s **RappelConso** product recalls.
 
