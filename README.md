@@ -20,4 +20,4 @@
 
 ---
 
-[Website](https://idilsaglam.com) | [Linkedin](https://www.linkedin.com/in/idilsaglam/) 
+[Website](https://idilsaglam.com) | [LinkedIn](https://www.linkedin.com/in/idilsaglam/) 
