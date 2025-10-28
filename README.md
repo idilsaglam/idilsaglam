@@ -10,7 +10,7 @@
 
 - [pwa-party](https://github.com/Makepad-fr/pwa-party) : A lightweight event PWA that creates a **unique organizer ID** and lets guests **upload photos** under simple rules.
 
-- [file-transformer](https://github.com/Makepad-fr/transformer) : Fast file conversion (**JPG→PNG**, **MP4→MP3**, etc.)
+- [transformers](https://github.com/Makepad-fr/transformers) : Fast file conversion (**JPG→PNG**, **MP4→MP3**, etc.)
 
 - [cli-todo](https://github.com/Makepad-fr/cli-todo) : A minimal terminal **to-do** that’s quick to add, list, and check off.
 
