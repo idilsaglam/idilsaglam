@@ -14,7 +14,7 @@
 
 - [cli-todo](https://github.com/Makepad-fr/cli-todo) : A minimal terminal **to-do** that’s quick to add, list, and check off.
 
-- [clothing-classifier](https://github.com/Makepad-fr/clothing-classifier) : Upload a photo and get **clothing type/occasion** with **confidence percentages** via an API.
+- [catwlk](https://github.com/Makepad-fr/catwlk) : Upload a photo and get **clothing type/occasion** with **confidence percentages** via an API.
 
 - [A11y Linter](https://github.com/idilsaglam/a11y-linter) : In-browser checker for **WCAG 2.1 AA** issues in pasted HTML forms; instant and actionable notes.
 
