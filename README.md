@@ -8,7 +8,7 @@
 
 - [keystroke-overlay-video-recorder](https://github.com/Makepad-fr/keystroke-overlay-video-recorder) : Records your screen with a subtle on-screen **keystroke** overlay (incl. Caps) for clear tutorials and demos.
 
-- [pwa-party](https://github.com/Makepad-fr/pwa-party) : A lightweight event PWA that creates a **unique organizer ID** and lets guests **upload photos** under simple rules.
+- [partypin](https://github.com/Makepad-fr/partypin) : A lightweight event PWA that creates a **unique organizer ID** and lets guests **upload photos** under simple rules.
 
 - [transformers](https://github.com/Makepad-fr/transformers) : Fast file conversion (**JPG→PNG**, **MP4→MP3**, etc.)
 
