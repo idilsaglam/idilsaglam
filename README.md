@@ -12,7 +12,7 @@
 
 - [transformers](https://github.com/Makepad-fr/transformers) : Fast file conversion (**JPG→PNG**, **MP4→MP3**, etc.)
 
-- [cli-todo](https://github.com/Makepad-fr/cli-todo) : A minimal terminal **to-do** that’s quick to add, list, and check off.
+- [tada](https://github.com/Makepad-fr/tada) : A minimal terminal **to-do** that’s quick to add, list, and check off.
 
 - [catwlk](https://github.com/Makepad-fr/catwlk) : Upload a photo and get **clothing type/occasion** with **confidence percentages** via an API.
 
